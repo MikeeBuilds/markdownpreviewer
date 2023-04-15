@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:#219ebc ;
+}
+
+.textarea {
+    width: 85%;
+    font-size: 22px;
+    padding: 20px;
+    border-radius: 0px 20px;
+    outline: none;
+}
+
+.textarea:focus {
+    border: 2px solid #219ebc;
+    box-shadow: 0px 0px 3px 3px #023047; ;
+}
+
+#preview {
+    
+    padding: 20px;
+    border-radius: 20px 0px;
+    background-color: #c8b6ff;
+    color: white;
+    overflow: auto;
+    box
+}
