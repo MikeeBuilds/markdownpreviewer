@@ -21,7 +21,7 @@ let y = 2;
 let z = x + y;
 \`\`\`
 
-> This is an image:
+> This is an image
 
 ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
 
